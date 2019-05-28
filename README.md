@@ -9,5 +9,5 @@ Permite generar URL, y tambien realizar imagenes
 
 
 Como ejemplos esta:
-- Generate-imagen.js: Creas una imagen y la guardas en el mismo directorio
-- Generate-URL-PNG.js: Creas el codigo para visualizarlos en Html
+- [Generate-imagen.js](https://github.com/saulnavarrov/generate-QrCode/blob/master/Generate-URL-PNG.js): Creas una imagen y la guardas en el mismo directorio
+- [Generate-URL-PNG.js](https://github.com/saulnavarrov/generate-QrCode/blob/master/Generate-URL-PNG.js): Creas el codigo para visualizarlos en Html
