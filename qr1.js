@@ -16,7 +16,7 @@ var opts = {
 
 // Generando datos
 var text = 'https://api.whatsapp.com/send?phone=573218591260';
-var path = './tmp.png';
+var path = './result.png';
 
 
 // Creación de url para usar en <img src="Codigo QR"/>
