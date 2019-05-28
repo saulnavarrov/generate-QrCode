@@ -16,7 +16,7 @@ var opts = {
 
 // Generando datos
 var text = 'Hola mundo!';
-var path = './tmp.png';
+var path = './result.png';
 
 
 // Creación de archivos

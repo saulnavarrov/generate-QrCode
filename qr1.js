@@ -15,7 +15,7 @@ var opts = {
   }
 
 // Generando datos
-var text = 'https://api.whatsapp.com/send?phone=573218591260';
+var text = '1@gjDcrB8rBXO//XV6LFirZBGC+fRM/o/q7qKUc/7HKtaOIGYyaIlZ4xUZ,GfLwIPIw1b/cKzxfPCpTiIphrUwctZ63ibdSooaaITg=,FEHez+qa4nYl6wox5VXQ6w==';
 var path = './result.png';
 
 
